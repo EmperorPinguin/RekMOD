@@ -11,7 +11,11 @@
         "tributeGlobalModifier": 50,
         "tributeLocalModifier": 150,
         "scoreFromPopulation": 4,
-        "scoreFromWonders": 25
+        "scoreFromWonders": 25,
+        "maxSpyRank": 5,
+        "spyRankSkillPercentBonus": 20,
+        "spyRankStealPercentBonus": 20,
+        "spyTechStealCostModifier": 1f
     },
     "isBaseRuleset": true
 }
